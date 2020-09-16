@@ -1,0 +1,4 @@
+#Sun Sep 13 20:12:31 ICT 2020
+base.0=/Users/mr9v2opt/Desktop/react-native-practice/MusicPlayer/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
