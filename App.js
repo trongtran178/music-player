@@ -199,17 +199,27 @@ export default class App extends Component {
           <Text style={{ alignSelf: 'center', margin: 8 }}>{this.state.curr_track.name}</Text>
           <Text style={{ alignSelf: 'center' }}>{this.state.curr_track.artist}</Text>
         </View>
-        <Slider style={{ marginHorizontal: 48 }} step={0.0001} disabled={false} minimumValue={1} maximumValue={100} onValueChange={value => this.onSliderValueChange(value)} value={this.state.sliderPercent}></Slider>
+        <Slider style={{ marginHorizontal: 48 }} step={0.0001} disabled={false}
+          minimumValue={1}
+          maximumValue={100}
+          onValueChange={value => this.onSliderValueChange(value)}
+          value={this.state.sliderPercent}></Slider>
         <Text style={{ alignSelf: 'center' }}>{this.handleSeekTime(this.state.time)} - {this.handleAudioDuration(audioPlayer ? audioPlayer.duration : 0)}</Text>
         <View style={{ flexDirection: 'row', marginTop: 16, justifyContent: 'space-evenly', alignItems: 'center' }}>
-          <TouchableOpacity activeOpacity={0.85} onPress={this.prevTrack}>
-            <Image style={styles.forwardIcon} source={{ uri: 'http://www.myiconfinder.com/uploads/iconsets/256-256-b2575601b7b7d153042eae0ea9ca6056.png' }} />
+          <TouchableOpacity activeOpacity={0.85}
+            onPress={this.prevTrack}>
+            <Image style={styles.forwardIcon}
+              source={{ uri: 'http://www.myiconfinder.com/uploads/iconsets/256-256-b2575601b7b7d153042eae0ea9ca6056.png' }} />
           </TouchableOpacity>
-          <TouchableOpacity activeOpacity={0.85} onPress={this.handlePlayPause}>
-            <Image style={{ width: 96, height: 96 }} source={{ uri: this.state.pauseOrPlayImageUrl }} ></Image>
+          <TouchableOpacity activeOpacity={0.85}
+            onPress={this.handlePlayPause}>
+            <Image style={{ width: 96, height: 96 }}
+              source={{ uri: this.state.pauseOrPlayImageUrl }} ></Image>
           </TouchableOpacity>
-          <TouchableOpacity activeOpacity={0.85} onPress={this.nextTrack}>
-            <Image style={styles.forwardIcon} source={{ uri: 'http://www.myiconfinder.com/uploads/iconsets/256-256-571c2895b25ca9eedb05a1d41445b4d8.png' }} />
+          <TouchableOpacity
+            activeOpacity={0.85} onPress={this.nextTrack}>
+            <Image style={styles.forwardIcon}
+              source={{ uri: 'http://www.myiconfinder.com/uploads/iconsets/256-256-571c2895b25ca9eedb05a1d41445b4d8.png' }} />
           </TouchableOpacity>
         </View>
       </View >
