@@ -62,6 +62,7 @@ export default class App extends Component {
   };
 
   prevTrack = () => {
+    return
     this.setState({
       curr_track: trackList[this.state.trackIndex > 0
         ? this.state.trackIndex - 1
@@ -77,6 +78,7 @@ export default class App extends Component {
   };
 
   nextTrack = () => {
+    return
     this.setState({
       curr_track: trackList[this.state.trackIndex < trackList.length - 1
         ? this.state.trackIndex + 1
@@ -92,6 +94,7 @@ export default class App extends Component {
   }
 
   loadTrack = (trackIndex) => {
+    return
     audioPlayer.stop();
     audioPlayer = null
     clearInterval(updateTimer)
@@ -119,7 +122,7 @@ export default class App extends Component {
   }
 
   handleSeekTime = (time) => {
-
+    return
     let minutes = Number.parseInt(time / 60);
     let seconds = time - (minutes * 60);
     let results = "";
@@ -132,6 +135,7 @@ export default class App extends Component {
   }
 
   handleAudioDuration(audioDuration) {
+    return
     let time = Number.parseInt(audioDuration / 1000)
     let minutes = Number.parseInt(time / 60);
     let seconds = time - (minutes * 60);
@@ -145,6 +149,7 @@ export default class App extends Component {
   }
 
   handlePlayPause = () => {
+    return
     if (this.state.isPlaying) {
       clearInterval(updateTimer)
       this.setState({
@@ -169,6 +174,7 @@ export default class App extends Component {
   }
 
   onSliderValueChange = (value) => {
+    return
     audioPlayer.seek((value / 100) * audioPlayer.duration)
     let duration = Number.parseInt(audioPlayer.duration / 1000);
     let newTime = Number.parseInt((duration / 100) * value);
@@ -179,6 +185,7 @@ export default class App extends Component {
   }
 
   _resetState = () => {
+    return
     clearInterval(updateTimer);
     this.setState({
       time: 0,

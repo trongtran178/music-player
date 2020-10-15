@@ -1,6 +1,12 @@
-import React from 'react'
-import Provider from './provider'
+// import React, { Component } from 'react'
+// import Provider from './provider'
+// import store from './store'
+// export default class MusicApp extends Component {
+// 	render() {
+// 		return (
+// 			<Provider store={store}>
 
-export default function App() {
-	return <Provider />
-}
+// 			</Provider>
+// 		)
+// 	}
+// }
