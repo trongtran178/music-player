@@ -59,7 +59,6 @@ export default class App extends Component {
 
   constructor(props) {
     super(props);
-    console.log(61, 'constructor')
   };
 
   prevTrack = () => {
@@ -78,7 +77,6 @@ export default class App extends Component {
   };
 
   nextTrack = () => {
-    console.log("Next track");
     this.setState({
       curr_track: trackList[this.state.trackIndex < trackList.length - 1
         ? this.state.trackIndex + 1
@@ -147,7 +145,6 @@ export default class App extends Component {
   }
 
   handlePlayPause = () => {
-    console.log("Is pause")
     if (this.state.isPlaying) {
       clearInterval(updateTimer)
       this.setState({
@@ -218,8 +215,8 @@ export default class App extends Component {
 
   componentDidMount() {
     this._isMounted = true
-    audioPlayer = new Player(trackList[0].path)
-    this.loadTrack(0);
+    // audioPlayer = new Player(trackList[0].path)
+    // this.loadTrack(0);
   }
 }
 
