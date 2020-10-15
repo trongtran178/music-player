@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/mr9v2opt/Desktop/react-native-practice/MusicPlayer/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "outputFile": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
                     "source": "/Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/268be37c762c3f1e21922779bb4297e4/material-1.1.0/res/values-land/values-land.xml",

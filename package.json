@@ -1,5 +1,5 @@
 {
-  "name": "MusicPlayer",
+  "name": "music-player",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -11,16 +11,26 @@
   },
   "android-shake": "adb shell input keyevent 82",
   "dependencies": {
+    "@react-native-community/async-storage": "^1.12.0",
     "@react-native-community/audio-toolkit": "^2.0.3",
+    "@react-native-community/google-signin": "^4.0.3",
     "@react-native-community/masked-view": "^0.1.10",
     "@react-native-community/slider": "^3.0.3",
     "react": "16.13.1",
     "react-devtools": "^4.8.2",
     "react-native": "0.63.2",
+    "react-native-device-info": "^6.0.2",
     "react-native-gesture-handler": "^1.8.0",
     "react-native-reanimated": "^1.13.0",
     "react-native-safe-area-context": "^3.1.7",
-    "react-native-screens": "^2.10.1"
+    "react-native-screens": "^2.10.1",
+    "react-native-svg": "^12.1.0",
+    "react-native-track-player": "^1.2.2",
+    "react-navigation": "^4.4.2",
+    "react-redux": "^7.2.1",
+    "redux": "^4.0.5",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0"
   },
   "devDependencies": {
     "@babel/core": "^7.8.4",

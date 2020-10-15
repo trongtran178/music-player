@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/mr9v2opt/Desktop/react-native-practice/MusicPlayer/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml",
+            "outputFile": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml",
             "map": [
                 {
-                    "source": "/Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/57a7755ec7f8569f8e81b10deb53e9cc/core-1.1.0/res/values-en-rIN/values-en-rIN.xml",
+                    "source": "/Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/a6fe5777531873182947064f66119a0a/core-1.2.0-beta01/res/values-en-rIN/values-en-rIN.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

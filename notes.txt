@@ -1,0 +1,8 @@
+
+// Thursday, October 15, 2020
+play music feature actions: 
+	- getting started
+	- play track
+	- pause track
+	- prev track
+	- next track
