@@ -82,7 +82,7 @@ package-lock.json
 /ReactCommon/**/*.xcodeproj
 /packages/rn-tester/build
 /packages/rn-tester/android/app/build/*
-
+ 
 # Libs that shouldn't have Xcode project
 /Libraries/FBLazyVector/**/*.xcodeproj
 /Libraries/FBReactNativeSpec/**/*.xcodeproj
