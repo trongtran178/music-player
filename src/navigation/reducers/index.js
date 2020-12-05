@@ -1,24 +1,13 @@
-
 import ApplicationNavigator from "../navigators";
-import { WELCOME } from '../screen_names'
-
-
-let initialState = {
-    index: 0,
-    routes: [
-        {
-            key: "welcome",
-            routeName: WELCOME
-        }
-    ]
-};
-
 
 const navigationData = (state, action) => {
-    const nextState = ApplicationNavigator.router.getStateForAction(
+    const nextState = ApplicationNavigator?.router?.getStateForAction(
         action,
         state
     );
-
+    if (typeof nextState == 'undefined') return null
+    if (typeof state == 'undefined') return null
     return nextState || state;
 }
+
+export default navigationData;

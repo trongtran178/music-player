@@ -23,6 +23,8 @@ import org.reactnative.maskedview.RNCMaskedViewPackage;
 import com.reactnativecommunity.slider.ReactSliderPackage;
 // react-native-device-info
 import com.learnium.RNDeviceInfo.RNDeviceInfo;
+// react-native-exit-app
+import com.github.wumke.RNExitApp.RNExitAppPackage;
 // react-native-gesture-handler
 import com.swmansion.gesturehandler.react.RNGestureHandlerPackage;
 // react-native-reanimated
@@ -86,6 +88,7 @@ public class PackageList {
       new RNCMaskedViewPackage(),
       new ReactSliderPackage(),
       new RNDeviceInfo(),
+      new RNExitAppPackage(),
       new RNGestureHandlerPackage(),
       new ReanimatedPackage(),
       new SafeAreaContextPackage(),

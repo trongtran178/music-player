@@ -137,7 +137,7 @@
     },
     {
         "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/layout_redbox_view.xml.flat",
-        "source": "/Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/87cd0763821bcd3e75f405f7694d69a1/jetified-react-native-0.63.2/res/layout/redbox_view.xml"
+        "source": "/Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/fc32148b2df11a90105d20ea5ccf7f40/jetified-react-native-0.63.3/res/layout/redbox_view.xml"
     },
     {
         "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/drawable_abc_edit_text_material.xml.flat",
@@ -181,11 +181,11 @@
     },
     {
         "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/anim_catalyst_push_up_in.xml.flat",
-        "source": "/Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/87cd0763821bcd3e75f405f7694d69a1/jetified-react-native-0.63.2/res/anim/catalyst_push_up_in.xml"
+        "source": "/Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/fc32148b2df11a90105d20ea5ccf7f40/jetified-react-native-0.63.3/res/anim/catalyst_push_up_in.xml"
     },
     {
         "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/anim_catalyst_slide_up.xml.flat",
-        "source": "/Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/87cd0763821bcd3e75f405f7694d69a1/jetified-react-native-0.63.2/res/anim/catalyst_slide_up.xml"
+        "source": "/Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/fc32148b2df11a90105d20ea5ccf7f40/jetified-react-native-0.63.3/res/anim/catalyst_slide_up.xml"
     },
     {
         "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
@@ -393,7 +393,7 @@
     },
     {
         "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/drawable_redbox_top_border_background.xml.flat",
-        "source": "/Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/87cd0763821bcd3e75f405f7694d69a1/jetified-react-native-0.63.2/res/drawable/redbox_top_border_background.xml"
+        "source": "/Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/fc32148b2df11a90105d20ea5ccf7f40/jetified-react-native-0.63.3/res/drawable/redbox_top_border_background.xml"
     },
     {
         "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_dark.xml.flat",
@@ -401,7 +401,7 @@
     },
     {
         "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/anim_catalyst_fade_in.xml.flat",
-        "source": "/Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/87cd0763821bcd3e75f405f7694d69a1/jetified-react-native-0.63.2/res/anim/catalyst_fade_in.xml"
+        "source": "/Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/fc32148b2df11a90105d20ea5ccf7f40/jetified-react-native-0.63.3/res/anim/catalyst_fade_in.xml"
     },
     {
         "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/layout-v26_abc_screen_toolbar.xml.flat",
@@ -705,7 +705,7 @@
     },
     {
         "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/anim_catalyst_push_up_out.xml.flat",
-        "source": "/Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/87cd0763821bcd3e75f405f7694d69a1/jetified-react-native-0.63.2/res/anim/catalyst_push_up_out.xml"
+        "source": "/Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/fc32148b2df11a90105d20ea5ccf7f40/jetified-react-native-0.63.3/res/anim/catalyst_push_up_out.xml"
     },
     {
         "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/drawable_btn_radio_on_mtrl.xml.flat",
@@ -968,6 +968,10 @@
         "source": "/Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/7dca42c052e713f328992d116d98f349/appcompat-1.1.0/res/anim/btn_checkbox_to_checked_icon_null_animation.xml"
     },
     {
+        "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/drawable-hdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/src/main/res/drawable-hdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
         "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
         "source": "/Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/7dca42c052e713f328992d116d98f349/appcompat-1.1.0/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png"
     },
@@ -978,6 +982,10 @@
     {
         "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
         "source": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
     },
     {
         "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/layout-watch-v20_abc_alert_dialog_title_material.xml.flat",
@@ -1013,7 +1021,7 @@
     },
     {
         "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/layout_redbox_item_frame.xml.flat",
-        "source": "/Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/87cd0763821bcd3e75f405f7694d69a1/jetified-react-native-0.63.2/res/layout/redbox_item_frame.xml"
+        "source": "/Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/fc32148b2df11a90105d20ea5ccf7f40/jetified-react-native-0.63.3/res/layout/redbox_item_frame.xml"
     },
     {
         "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
@@ -1305,7 +1313,7 @@
     },
     {
         "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/anim_catalyst_fade_out.xml.flat",
-        "source": "/Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/87cd0763821bcd3e75f405f7694d69a1/jetified-react-native-0.63.2/res/anim/catalyst_fade_out.xml"
+        "source": "/Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/fc32148b2df11a90105d20ea5ccf7f40/jetified-react-native-0.63.3/res/anim/catalyst_fade_out.xml"
     },
     {
         "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/xml_standalone_badge_gravity_top_start.xml.flat",
@@ -1393,7 +1401,7 @@
     },
     {
         "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/anim_catalyst_slide_down.xml.flat",
-        "source": "/Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/87cd0763821bcd3e75f405f7694d69a1/jetified-react-native-0.63.2/res/anim/catalyst_slide_down.xml"
+        "source": "/Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/fc32148b2df11a90105d20ea5ccf7f40/jetified-react-native-0.63.3/res/anim/catalyst_slide_down.xml"
     },
     {
         "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/layout_design_layout_snackbar_include.xml.flat",
@@ -1402,6 +1410,10 @@
     {
         "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/drawable-watch-v20_abc_dialog_material_background.xml.flat",
         "source": "/Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/7dca42c052e713f328992d116d98f349/appcompat-1.1.0/res/drawable-watch-v20/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
     },
     {
         "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
@@ -1764,6 +1776,10 @@
         "source": "/Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/268be37c762c3f1e21922779bb4297e4/material-1.1.0/res/interpolator/mtrl_linear.xml"
     },
     {
+        "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
         "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "/Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/7dca42c052e713f328992d116d98f349/appcompat-1.1.0/res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
     },
@@ -1913,7 +1929,7 @@
     },
     {
         "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/layout_fps_view.xml.flat",
-        "source": "/Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/87cd0763821bcd3e75f405f7694d69a1/jetified-react-native-0.63.2/res/layout/fps_view.xml"
+        "source": "/Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/fc32148b2df11a90105d20ea5ccf7f40/jetified-react-native-0.63.3/res/layout/fps_view.xml"
     },
     {
         "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/color_mtrl_popupmenu_overlay_color.xml.flat",
@@ -2069,7 +2085,7 @@
     },
     {
         "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/layout_redbox_item_title.xml.flat",
-        "source": "/Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/87cd0763821bcd3e75f405f7694d69a1/jetified-react-native-0.63.2/res/layout/redbox_item_title.xml"
+        "source": "/Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/fc32148b2df11a90105d20ea5ccf7f40/jetified-react-native-0.63.3/res/layout/redbox_item_title.xml"
     },
     {
         "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/layout_mtrl_alert_dialog.xml.flat",
@@ -2432,6 +2448,10 @@
         "source": "/Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/7dca42c052e713f328992d116d98f349/appcompat-1.1.0/res/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml"
     },
     {
+        "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/raw_app.json.flat",
+        "source": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/src/main/res/raw/app.json"
+    },
+    {
         "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/color_mtrl_btn_text_color_selector.xml.flat",
         "source": "/Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/268be37c762c3f1e21922779bb4297e4/material-1.1.0/res/color/mtrl_btn_text_color_selector.xml"
     },
@@ -2625,7 +2645,7 @@
     },
     {
         "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/layout_dev_loading_view.xml.flat",
-        "source": "/Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/87cd0763821bcd3e75f405f7694d69a1/jetified-react-native-0.63.2/res/layout/dev_loading_view.xml"
+        "source": "/Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/fc32148b2df11a90105d20ea5ccf7f40/jetified-react-native-0.63.3/res/layout/dev_loading_view.xml"
     },
     {
         "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
@@ -2840,6 +2860,10 @@
         "source": "/Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/ab9598a8ca8aa96512c99999c7acad33/play-services-base-17.0.0/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
+        "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
         "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "/Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/7dca42c052e713f328992d116d98f349/appcompat-1.1.0/res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
     },
@@ -2862,6 +2886,10 @@
     {
         "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
         "source": "/Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/7dca42c052e713f328992d116d98f349/appcompat-1.1.0/res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backiconmask.png.flat",
+        "source": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_stack_src_views_assets_backiconmask.png"
     },
     {
         "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/layout_design_menu_item_action_area.xml.flat",
@@ -2901,7 +2929,7 @@
     },
     {
         "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/xml_rn_dev_preferences.xml.flat",
-        "source": "/Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/87cd0763821bcd3e75f405f7694d69a1/jetified-react-native-0.63.2/res/xml/rn_dev_preferences.xml"
+        "source": "/Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/fc32148b2df11a90105d20ea5ccf7f40/jetified-react-native-0.63.3/res/xml/rn_dev_preferences.xml"
     },
     {
         "merged": "/Users/mr9v2opt/Desktop/react-native-practice/music-player/android/app/build/intermediates/res/merged/debug/layout_test_action_chip.xml.flat",

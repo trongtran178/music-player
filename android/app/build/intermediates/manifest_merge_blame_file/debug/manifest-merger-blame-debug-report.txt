@@ -27,8 +27,8 @@
 16-->[com.google.android.gms:play-services-iid:17.0.0] /Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/0a0f2b8fe2ea95e0b05c7442cd0c5f3c/play-services-iid-17.0.0/AndroidManifest.xml:23:5-82
 16-->[com.google.android.gms:play-services-iid:17.0.0] /Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/0a0f2b8fe2ea95e0b05c7442cd0c5f3c/play-services-iid-17.0.0/AndroidManifest.xml:23:22-79
 17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-17-->[com.google.android.exoplayer:exoplayer-core:2.10.1] /Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/bfd206cbf2e26aec6780d6e670b933d5/jetified-exoplayer-core-2.10.1/AndroidManifest.xml:24:5-79
-17-->[com.google.android.exoplayer:exoplayer-core:2.10.1] /Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/bfd206cbf2e26aec6780d6e670b933d5/jetified-exoplayer-core-2.10.1/AndroidManifest.xml:24:22-76
+17-->[com.google.android.exoplayer:exoplayer-core:2.10.1] /Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/bb82e463fd4a658a2c6e7ded5899a30e/jetified-exoplayer-core-2.10.1/AndroidManifest.xml:24:5-79
+17-->[com.google.android.exoplayer:exoplayer-core:2.10.1] /Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/bb82e463fd4a658a2c6e7ded5899a30e/jetified-exoplayer-core-2.10.1/AndroidManifest.xml:24:22-76
 18    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
 18-->[com.android.installreferrer:installreferrer:1.1.2] /Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/ed15bf0fa61c83cd6407f59bc2812143/installreferrer-1.1.2/AndroidManifest.xml:9:5-110
 18-->[com.android.installreferrer:installreferrer:1.1.2] /Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/ed15bf0fa61c83cd6407f59bc2812143/installreferrer-1.1.2/AndroidManifest.xml:9:22-107
@@ -155,11 +155,11 @@
 84-->[com.google.android.gms:play-services-base:17.0.0] /Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/ab9598a8ca8aa96512c99999c7acad33/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
 85
 86        <meta-data
-86-->[com.google.android.gms:play-services-basement:17.0.0] /Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/7ddd89482b7a0e553733df0519ac8b32/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+86-->[com.google.android.gms:play-services-basement:17.0.0] /Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/aa56ccac04744173d12f1a6e7b2f0f4d/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
 87            android:name="com.google.android.gms.version"
-87-->[com.google.android.gms:play-services-basement:17.0.0] /Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/7ddd89482b7a0e553733df0519ac8b32/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+87-->[com.google.android.gms:play-services-basement:17.0.0] /Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/aa56ccac04744173d12f1a6e7b2f0f4d/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
 88            android:value="@integer/google_play_services_version" />
-88-->[com.google.android.gms:play-services-basement:17.0.0] /Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/7ddd89482b7a0e553733df0519ac8b32/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+88-->[com.google.android.gms:play-services-basement:17.0.0] /Users/mr9v2opt/.gradle/caches/transforms-2/files-2.1/aa56ccac04744173d12f1a6e7b2f0f4d/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
 89    </application>
 90
 91</manifest>

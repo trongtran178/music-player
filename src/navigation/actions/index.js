@@ -1,5 +1,6 @@
-import { NavigationActions } from "react-navigation";
 import * as screenNames from "../screen_names";
+
+import { NavigationActions } from "react-navigation";
 import RNExitApp from "react-native-exit-app";
 
 export const navigateBack = () => NavigationActions.back()
